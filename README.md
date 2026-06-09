@@ -65,8 +65,3 @@ The simulations demonstrate:
 - Advanced finite-size scaling analysis.
 - Comparison with theoretical and experimental percolation models.
 
-## Author
-
-**Rajat Panchal**  
-B.Tech Electronics and Communication Engineering  
-Indian Institute of Technology Roorkee
